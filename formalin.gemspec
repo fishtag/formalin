@@ -9,10 +9,10 @@ Gem::Specification.new do |s|
   s.version     = Formalin::VERSION
   s.authors     = ["Timur Khafizov"]
   s.email       = ["timur.khafizov@fishtag.ru"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Formalin."
-  s.description = "TODO: Description of Formalin."
-  s.license     = "MIT"
+  s.homepage    = 'https://github.com/fishtag/formalin'
+  s.summary     = 'Gem for adding dynamic forms to Rails model'
+  s.description = 'Gem for adding dynamic forms to Rails model'
+  s.license     = 'MIT'
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
